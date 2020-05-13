@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/AdamPatch.dir/main.cpp.o  -o AdamPatch  -lncurses 

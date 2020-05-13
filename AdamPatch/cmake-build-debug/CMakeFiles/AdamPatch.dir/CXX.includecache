@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alexey/Programming/AdamPatch/main.cpp
+cstdio
+-
+cstdlib
+-
+clocale
+-
+unistd.h
+-
+ncurses.h
+-
+

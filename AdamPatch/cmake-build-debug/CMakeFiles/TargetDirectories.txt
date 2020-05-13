@@ -1,0 +1,3 @@
+/home/alexey/Programming/AdamPatch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alexey/Programming/AdamPatch/cmake-build-debug/CMakeFiles/AdamPatch.dir
+/home/alexey/Programming/AdamPatch/cmake-build-debug/CMakeFiles/edit_cache.dir
